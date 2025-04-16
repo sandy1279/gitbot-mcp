@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+transformers
+torch
+accelerate
+npx  # (install Node.js if not already)
+mcp
+agno
