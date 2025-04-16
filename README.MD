@@ -49,6 +49,6 @@ Here’s a breakdown of how the app works:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/github-mcp-llama3-agent.git
-cd github-mcp-llama3-agent
-pip install -r requirements.txt
+https://github.com/sandy1279/gitbot-mcp
+cd gitbot-mcp
+pip install -r req.txt
